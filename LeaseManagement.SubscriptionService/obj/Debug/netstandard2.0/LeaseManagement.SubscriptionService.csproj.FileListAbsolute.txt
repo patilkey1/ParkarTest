@@ -1,0 +1,14 @@
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\bin\Debug\netstandard2.0\LeaseManagement.SubscriptionService.deps.json
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\bin\Debug\netstandard2.0\LeaseManagement.SubscriptionService.dll
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\bin\Debug\netstandard2.0\LeaseManagement.SubscriptionService.pdb
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\obj\Debug\netstandard2.0\LeaseManagement.SubscriptionService.csprojAssemblyReference.cache
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\obj\Debug\netstandard2.0\LeaseManagement.SubscriptionService.AssemblyInfoInputs.cache
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\obj\Debug\netstandard2.0\LeaseManagement.SubscriptionService.AssemblyInfo.cs
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\obj\Debug\netstandard2.0\LeaseManagement.SubscriptionService.csproj.CoreCompileInputs.cache
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\obj\Debug\netstandard2.0\LeaseManagement.SubscriptionService.dll
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\obj\Debug\netstandard2.0\LeaseManagement.SubscriptionService.pdb
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\bin\Debug\netstandard2.0\LeaseManagement.ClientModels.dll
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\bin\Debug\netstandard2.0\LeaseManagement.Models.dll
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\bin\Debug\netstandard2.0\LeaseManagement.ClientModels.pdb
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\bin\Debug\netstandard2.0\LeaseManagement.Models.pdb
+D:\Sample Project\LeaseManagement\LeaseManagement.SubscriptionService\obj\Debug\netstandard2.0\LeaseManagement.SubscriptionService.csproj.CopyComplete

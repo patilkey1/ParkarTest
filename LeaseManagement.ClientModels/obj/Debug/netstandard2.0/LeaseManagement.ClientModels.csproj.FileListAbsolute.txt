@@ -1,0 +1,8 @@
+D:\Sample Project\LeaseManagement\LeaseManagement.ClientModels\bin\Debug\netstandard2.0\LeaseManagement.ClientModels.deps.json
+D:\Sample Project\LeaseManagement\LeaseManagement.ClientModels\bin\Debug\netstandard2.0\LeaseManagement.ClientModels.dll
+D:\Sample Project\LeaseManagement\LeaseManagement.ClientModels\bin\Debug\netstandard2.0\LeaseManagement.ClientModels.pdb
+D:\Sample Project\LeaseManagement\LeaseManagement.ClientModels\obj\Debug\netstandard2.0\LeaseManagement.ClientModels.AssemblyInfoInputs.cache
+D:\Sample Project\LeaseManagement\LeaseManagement.ClientModels\obj\Debug\netstandard2.0\LeaseManagement.ClientModels.AssemblyInfo.cs
+D:\Sample Project\LeaseManagement\LeaseManagement.ClientModels\obj\Debug\netstandard2.0\LeaseManagement.ClientModels.csproj.CoreCompileInputs.cache
+D:\Sample Project\LeaseManagement\LeaseManagement.ClientModels\obj\Debug\netstandard2.0\LeaseManagement.ClientModels.dll
+D:\Sample Project\LeaseManagement\LeaseManagement.ClientModels\obj\Debug\netstandard2.0\LeaseManagement.ClientModels.pdb

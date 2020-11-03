@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LP2Udyie7w7VsjoRv9iUNhRx0nQgEZysx4Eu86x50zV/POhoQXe743MqZ8jBUfsLn3V1C2MLneZtsX7j1mw4yg==",
+  "success": true,
+  "projectFilePath": "D:\\Sample Project\\LeaseManagement\\LeaseManagement.ClientModels\\LeaseManagement.ClientModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
